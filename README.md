@@ -1,18 +1,11 @@
-# create-svelte
+# template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+npm create svelte@latest my-app -> Skeleton project -> Typescript -> ESLint and Prettier -> [tailwindcss config](https://tailwindcss.com/docs/guides/sveltekit) 
 
-## Creating a project
+## To the future me:
 
-If you're seeing this, you've probably already done this step. Congrats!
+[_Use this template_](https://github.com/hiawvp/my_sveltekit_template/generate), change name in `package.json` and `npm install`
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
